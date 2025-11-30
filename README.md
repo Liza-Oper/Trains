@@ -114,3 +114,4 @@ Train #8 arrived at Yavan (platform #2) at 16:55:15
 Train #5 arrived at Sangtuda (platform #2) at 16:55:15
 Train #7 arrived at Vakhsh (platform #2) at 16:55:15
 ```
+> Не забывайте о том, что программа будет работать, пока вы не остановите ее. Не повторяйте моих ошибок, он проработала всю ночь
