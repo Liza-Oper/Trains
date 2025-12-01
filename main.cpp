@@ -93,7 +93,7 @@ int main()
                 else if (i == 0) dir = 1;
             }});
     }
-    std::this_thread::sleep_for(std::chrono::hours(24 * 365));
+    std::this_thread::sleep_for(std::chrono::hours(24));
 
 
 
